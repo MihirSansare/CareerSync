@@ -1,9 +1,9 @@
 package com.careersync.jobportal.service;
 
-import com.careersync.jobportal.entity.Company;
+import com.careersync.jobportal.dto.CompanyDto;
 
 import java.util.List;
 
 public interface ICompanyService {
-    List<Company> getAllCompanies();
+    List<CompanyDto> getAllCompanies();
 }
