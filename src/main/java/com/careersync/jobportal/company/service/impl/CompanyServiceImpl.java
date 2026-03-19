@@ -1,9 +1,9 @@
-package com.careersync.jobportal.service.impl;
+package com.careersync.jobportal.company.service.impl;
 
 import com.careersync.jobportal.dto.CompanyDto;
 import com.careersync.jobportal.entity.Company;
 import com.careersync.jobportal.repository.CompanyRepository;
-import com.careersync.jobportal.service.ICompanyService;
+import com.careersync.jobportal.company.service.ICompanyService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import java.util.List;

@@ -1,7 +1,7 @@
 package com.careersync.jobportal.company.controller;
 
 import com.careersync.jobportal.dto.CompanyDto;
-import com.careersync.jobportal.service.ICompanyService;
+import com.careersync.jobportal.company.service.ICompanyService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

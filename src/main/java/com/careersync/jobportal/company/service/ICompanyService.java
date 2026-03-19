@@ -1,4 +1,4 @@
-package com.careersync.jobportal.service;
+package com.careersync.jobportal.company.service;
 
 import com.careersync.jobportal.dto.CompanyDto;
 
